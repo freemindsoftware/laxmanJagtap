@@ -1,0 +1,1357 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TT Plugin\n"
+"POT-Creation-Date: 2017-12-26 19:14+0600\n"
+"PO-Revision-Date: 2017-12-26 19:29+0600\n"
+"Last-Translator: \n"
+"Language-Team: TrendyTheme - trendytheme@gmail.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_html_x;_n_noop;_x;_nx;_n;__;"
+"_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/api-key-for-google-maps.php:45
+msgid "Kay Updated!"
+msgstr ""
+
+#: inc/api-key-for-google-maps.php:51 inc/api-key-for-google-maps.php:57
+msgid "Add Google Maps API KEY"
+msgstr ""
+
+#: inc/api-key-for-google-maps.php:52
+msgid ""
+"This option will attempt to add your Google API KEY to any Google Maps JS "
+"file that has properly been enqueue."
+msgstr ""
+
+#: inc/api-key-for-google-maps.php:53
+#, php-format
+msgid "To Get a Google Maps API KEY %sclick here%s"
+msgstr ""
+
+#: inc/api-key-for-google-maps.php:56
+msgid "Enter Google Maps API KEY"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:82
+#, php-format
+msgid "%s (\"Invalid\", \"tt-pl-textdomain\")"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:86
+#, php-format
+msgid "%s (\"Pending\", \"tt-pl-textdomain\")"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:99
+msgid "sub item"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:131
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:140
+msgid "URL"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:148
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:155
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:163
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:169
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:176
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:183
+msgid "Description"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:185
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:192
+msgid "Use as Menu Heading Text?"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:194 inc/widgets/author-widget.php:56
+#: inc/widgets/author-widget.php:64 inc/widgets/latest-posts.php:48
+#: inc/widgets/latest-posts.php:56 inc/widgets/popular-post/widget.php:43
+#: inc/widgets/popular-post/widget.php:51
+#: inc/widgets/popular-post/widget.php:59
+msgid "No"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:195 inc/widgets/author-widget.php:55
+#: inc/widgets/author-widget.php:63 inc/widgets/latest-posts.php:47
+#: inc/widgets/latest-posts.php:55 inc/widgets/popular-post/widget.php:42
+#: inc/widgets/popular-post/widget.php:50
+#: inc/widgets/popular-post/widget.php:58
+msgid "Yes"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:197
+msgid "Select yes to use this item as menu heading text"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:205
+msgid "Menu Icon"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:207
+msgid "Select Icon"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:225
+msgid "Megamenu Settings"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:233
+msgid "Enable Megamenu"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:234
+msgid "Disable Megamenu"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:240
+msgid "Mega Menu Container Width"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:242
+msgid "col-sm-12"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:243
+msgid "col-sm-10"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:245
+msgid "Select Bootstrap grid column for manage container width"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:251
+msgid "Megamenu Column Number"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:253
+msgid "1 Column"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:254
+msgid "2 Column"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:255
+msgid "3 Column"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:256
+msgid "4 Column"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:265
+msgid "Move"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:266
+msgid "Up one"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:267
+msgid "Down one"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:270
+msgid "To the top"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:277
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:290
+msgid "Remove"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:291
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:185
+msgid "Cancel"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/CustomizerImporter.php:37
+#: inc/one-click-demo-import/inc/CustomizerImporter.php:45
+msgid "Importing customizer settings"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/CustomizerImporter.php:43
+msgid "Customizer settings import finished!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/CustomizerImporter.php:73
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/CustomizerImporter.php:93
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/CustomizerImporter.php:99
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Downloader.php:58
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Downloader.php:76
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:75
+#, php-format
+msgid ""
+"\"import_file_url\" or \"local_import_file\" for %s%s%s are not defined!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:203
+#: inc/one-click-demo-import/inc/Helpers.php:246
+#, php-format
+msgid ""
+"An error occurred while writing file to your server! Tried to write a file "
+"to: %s%s."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:280
+#, php-format
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file "
+"from path: %s%s."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:303
+#, php-format
+msgid ""
+"This WordPress page does not have %sdirect%s write file access. This plugin "
+"needs it in order to save the demo import xml file to the upload directory "
+"of your site. You can change this setting with these instructions: %s."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:314
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:131
+#: inc/one-click-demo-import/views/plugin-page.php:14
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:315
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:132
+#: inc/one-click-demo-import/views/plugin-page.php:101
+#: inc/one-click-demo-import/views/plugin-page.php:113
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:327
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your "
+"server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:335
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:375
+msgid "One Click Demo Import - "
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:409
+#, php-format
+msgid ""
+"%sYour user role isn't high enough. You don't have permission to import demo "
+"data.%s"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:444
+msgid ""
+"Please upload XML file for content import. If you want to import widgets or "
+"customizer settings only, please use Widget Importer & Exporter or the "
+"Customizer Export/Import plugin."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:446
+#: inc/one-click-demo-import/inc/Helpers.php:466
+#: inc/one-click-demo-import/inc/Helpers.php:483
+#: inc/one-click-demo-import/inc/Helpers.php:494
+#: inc/one-click-demo-import/inc/Helpers.php:514
+#: inc/one-click-demo-import/inc/Helpers.php:522
+msgid "Upload files"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:462
+#, php-format
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:479
+#, php-format
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:492
+msgid "Missing Redux option name! Please also enter the Redux option name!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:510
+#, php-format
+msgid "Redux file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:520
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:546
+#, php-format
+msgid "Initial max execution time = %s"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:550
+#, php-format
+msgid ""
+"Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s"
+"%1$sCustomizer file = %5$s%1$sRedux files:%1$s%6$s"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Helpers.php:554
+#: inc/one-click-demo-import/inc/Helpers.php:555
+#: inc/one-click-demo-import/inc/Helpers.php:556
+msgid "not defined!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/Importer.php:173
+msgid "New AJAX call!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:183
+msgid "No preview image defined for this import."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:184
+msgid "Are you sure?"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:186
+msgid "Yes, import!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:187
+msgid "Selected demo import:"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:234
+msgid "Manually uploaded files"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:247
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:258
+msgid "Downloaded files"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:254
+#, php-format
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:263
+msgid "No import files specified!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:382
+msgid ""
+"Just used One Click Demo Import plugin and it was awesome! Thanks "
+"@ProteusThemes! https://www.proteusthemes.com/"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:385
+#, php-format
+msgid ""
+"%1$s%6$sWasn't this a great One Click Demo Import experience?%7$s Created "
+"and maintained by %3$sProteusThemes%4$s. %2$s%5$sClick to Tweet!%4$s%8$s"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:398
+#, php-format
+msgid ""
+"%1$s%3$sThat's it, all done!%4$s%2$sThe demo import has finished. Please "
+"check your page and make sure that everything has imported correctly.%5$s"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/OneClickDemoImport.php:409
+#, php-format
+msgid ""
+"%1$sThe demo import has finished, but there were some import errors.%2$sMore "
+"details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/ReduxImporter.php:23
+msgid "The Redux plugin is not activated, so the Redux import was skipped!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/ReduxImporter.php:32
+#: inc/one-click-demo-import/inc/ReduxImporter.php:53
+#: inc/one-click-demo-import/inc/ReduxImporter.php:66
+msgid "Importing Redux settings"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/ReduxImporter.php:51
+#, php-format
+msgid "Redux settings import for: %s finished successfully!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/ReduxImporter.php:57
+#, php-format
+msgid ""
+"The Redux option name: %s, was not found in this WP site, so it was not "
+"imported!"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/WidgetImporter.php:40
+#: inc/one-click-demo-import/inc/WidgetImporter.php:52
+msgid "Importing widgets"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/WidgetImporter.php:88
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/WidgetImporter.php:118
+msgid ""
+"Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/one-click-demo-import/inc/WidgetImporter.php:157
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/WidgetImporter.php:178
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/WidgetImporter.php:211
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/WidgetImporter.php:269
+msgid "Imported"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/WidgetImporter.php:273
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/WidgetImporter.php:279
+msgid "No Title"
+msgstr ""
+
+#: inc/one-click-demo-import/inc/WidgetImporter.php:326
+msgid "No results for widget import!"
+msgstr ""
+
+#: inc/one-click-demo-import/one-click-demo-import.php:51
+#, php-format
+msgid ""
+"The %2$sOne Click Demo Import%3$s plugin requires %2$sPHP 5.3.2+%3$s to run "
+"properly. Please contact your hosting company and ask them to update the PHP "
+"version of your site to at least PHP 5.3.2.%4$s Your current version of PHP: "
+"%2$s%1$s%3$s"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:131
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:167
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:283
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:356
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:505
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:565
+msgid "Invalid author mapping"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:666
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:754
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:764
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:842
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:856
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:888
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1771
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:893
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:933
+#, php-format
+msgid "Failed to import term: %s - %s"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1074
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1557
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1578
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1582
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1732
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1776
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1834
+#, php-format
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1843
+#, php-format
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1894
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1907
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1912
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1918
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1943
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1956
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1961
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1975
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1980
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2006
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2017
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2062
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2067
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2089
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2093
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2107
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2111
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2128
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2157
+#, php-format
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2167
+#, php-format
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2178
+#, php-format
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2186
+#, php-format
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2200
+#, php-format
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2219
+#, php-format
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr ""
+
+#: inc/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2229
+#, php-format
+msgid "Term %d was successfully updated with parent %d"
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:21
+#, php-format
+msgid ""
+"%sWarning: your server is using %sPHP safe mode%s. This means that you might "
+"experience server timeout errors.%s"
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:34
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:39
+msgid ""
+"Importing demo data (post, pages, images, theme settings, ...) is the "
+"easiest way to setup your theme."
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:40
+msgid ""
+"It will allow you to quickly edit everything instead of creating content "
+"from scratch."
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:45
+msgid "When you import the data, the following things might happen:"
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:48
+msgid ""
+"No existing posts, pages, categories, images, custom post types or any other "
+"data will be deleted or modified."
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:49
+msgid ""
+"Posts, pages, images, widgets, menus and other theme settings will get "
+"imported."
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:50
+msgid ""
+"Please click on the Import button only once and wait, it can take a couple "
+"of minutes."
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:67
+msgid ""
+"There are no predefined import files available in this theme. Please upload "
+"the import files manually!"
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:71
+msgid "Manual demo files upload"
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:74
+msgid "Choose a XML file for content import:"
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:79
+msgid "Choose a WIE or JSON file for widget import:"
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:79
+#: inc/one-click-demo-import/views/plugin-page.php:84
+#: inc/one-click-demo-import/views/plugin-page.php:90
+msgid "(*optional)"
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:84
+msgid "Choose a DAT file for customizer import:"
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:90
+msgid "Choose a JSON file for Redux import:"
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:93
+msgid "Enter the Redux option name:"
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:128
+msgid "All"
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:135
+msgid "Search demos..."
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:156
+msgid "No preview image."
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:161
+msgid "Import"
+msgstr ""
+
+#: inc/one-click-demo-import/views/plugin-page.php:173
+msgid "Importing, please wait!"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:37
+msgid "Automatically show likes on"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:38
+msgid "Exclude from Post/Page ID"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:39
+msgid "Disable CSS"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:40
+msgid "AJAX Like Counts"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:41
+msgid "0 Count Postfix"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:42
+msgid "1 Count Postfix"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:43
+msgid "More than 1 Count Postfix"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:44
+msgid "Shortcode and Template Tag"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:50 inc/post-likes/zilla-likes.php:51
+#: inc/post-likes/zilla-likes.php:61
+msgid "ZillaLikes Settings"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:51
+msgid "Settings"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:64
+msgid "Settings saved."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:70
+msgid "Save Changes"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:79
+msgid ""
+"ZillaLikes allows you to display like icons throughout your site. Customize "
+"the output of ZillaLike with this settings page."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:93
+msgid "Posts"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:96
+msgid "Pages"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:99
+msgid "Blog Index Page, Archive Pages, and Search Results"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:108
+msgid "Comma separated list of post/page ID's (e.g. 4,7,87)"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:117
+msgid "I want to use my own CSS styles"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:124
+msgid ""
+"We recommend you check this option when using the Shutterbug theme to avoid "
+"conflicts"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:135
+msgid "AJAX Like Counts on page load"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:136
+msgid ""
+"If you are using a cacheing plugin, you may want to dynamically load the "
+"like counts via AJAX."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:145
+msgid ""
+"The text after the count when no one has liked a post/page. Leave blank for "
+"no text after the count."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:154
+msgid ""
+"The text after the count when one person has liked a post/page. Leave blank "
+"for no text after the count."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:163
+msgid ""
+"The text after the count when more than one person has liked a post/page. "
+"Leave blank for no text after the count."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:168
+msgid "To use ZillaLikes in your posts and pages you can use the shortcode:"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:170
+msgid ""
+"To use ZillaLikes manually in your theme template use the following PHP code:"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:314
+msgid "Like this"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:317
+msgid "You already like this"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:354
+msgid "Displays your most popular posts sorted by most liked"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:411
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:426
+msgid "Title:"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:430
+msgid "Description:"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:434
+msgid "Posts:"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:439
+msgid "Display like counts"
+msgstr ""
+
+#: inc/post-types/post-types.php:11 inc/post-types/post-types.php:12
+#: inc/post-types/post-types.php:13 inc/post-types/post-types.php:26
+msgid "Reformation"
+msgstr ""
+
+#: inc/post-types/post-types.php:14
+msgid "Parent Reformation:"
+msgstr ""
+
+#: inc/post-types/post-types.php:15
+msgid "All Reformation"
+msgstr ""
+
+#: inc/post-types/post-types.php:16
+msgid "View Reformation"
+msgstr ""
+
+#: inc/post-types/post-types.php:17
+msgid "Add New Reformation"
+msgstr ""
+
+#: inc/post-types/post-types.php:18 inc/post-types/post-types.php:108
+#: inc/post-types/post-types.php:197 inc/post-types/post-types.php:245
+#: inc/post-types/post-types.php:293
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types/post-types.php:19
+msgid "Edit Reformation"
+msgstr ""
+
+#: inc/post-types/post-types.php:20
+msgid "Update Reformation"
+msgstr ""
+
+#: inc/post-types/post-types.php:21
+msgid "Search Reformation"
+msgstr ""
+
+#: inc/post-types/post-types.php:22
+msgid "No Reformation found"
+msgstr ""
+
+#: inc/post-types/post-types.php:23
+msgid "No Reformation found in Trash"
+msgstr ""
+
+#: inc/post-types/post-types.php:59 inc/post-types/post-types.php:60
+#: inc/post-types/post-types.php:148 inc/post-types/post-types.php:149
+msgid "Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:61 inc/post-types/post-types.php:150
+msgid "Search Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:62 inc/post-types/post-types.php:151
+msgid "Popular Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:63 inc/post-types/post-types.php:152
+msgid "All Categories"
+msgstr ""
+
+#: inc/post-types/post-types.php:64 inc/post-types/post-types.php:153
+msgid "Parent Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:65 inc/post-types/post-types.php:154
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/post-types/post-types.php:66 inc/post-types/post-types.php:155
+msgid "Edit Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:67 inc/post-types/post-types.php:156
+msgid "Update Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:68 inc/post-types/post-types.php:157
+msgid "Add New Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:69 inc/post-types/post-types.php:158
+msgid "New Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:70 inc/post-types/post-types.php:159
+msgid "Separate categories with commas"
+msgstr ""
+
+#: inc/post-types/post-types.php:71 inc/post-types/post-types.php:160
+msgid "Add or remove categories"
+msgstr ""
+
+#: inc/post-types/post-types.php:72 inc/post-types/post-types.php:161
+msgid "Choose from most used categories"
+msgstr ""
+
+#: inc/post-types/post-types.php:73 inc/post-types/post-types.php:162
+msgid "Categories"
+msgstr ""
+
+#: inc/post-types/post-types.php:101 inc/post-types/post-types.php:102
+#: inc/post-types/post-types.php:103 inc/post-types/post-types.php:116
+msgid "Issue"
+msgstr ""
+
+#: inc/post-types/post-types.php:104
+msgid "Parent Issue:"
+msgstr ""
+
+#: inc/post-types/post-types.php:105
+msgid "All Issue"
+msgstr ""
+
+#: inc/post-types/post-types.php:106
+msgid "View Issue"
+msgstr ""
+
+#: inc/post-types/post-types.php:107
+msgid "Add New Issue"
+msgstr ""
+
+#: inc/post-types/post-types.php:109
+msgid "Edit Issue"
+msgstr ""
+
+#: inc/post-types/post-types.php:110
+msgid "Update Issue"
+msgstr ""
+
+#: inc/post-types/post-types.php:111
+msgid "Search Issue"
+msgstr ""
+
+#: inc/post-types/post-types.php:112
+msgid "No Issue found"
+msgstr ""
+
+#: inc/post-types/post-types.php:113
+msgid "No Issue found in Trash"
+msgstr ""
+
+#: inc/post-types/post-types.php:190 inc/post-types/post-types.php:191
+#: inc/post-types/post-types.php:205
+msgid "Event"
+msgstr ""
+
+#: inc/post-types/post-types.php:192
+msgid "Events"
+msgstr ""
+
+#: inc/post-types/post-types.php:193
+msgid "Parent Event:"
+msgstr ""
+
+#: inc/post-types/post-types.php:194
+msgid "All Events"
+msgstr ""
+
+#: inc/post-types/post-types.php:195
+msgid "View Event"
+msgstr ""
+
+#: inc/post-types/post-types.php:196
+msgid "Add New Event"
+msgstr ""
+
+#: inc/post-types/post-types.php:198
+msgid "Edit Event"
+msgstr ""
+
+#: inc/post-types/post-types.php:199
+msgid "Update Event"
+msgstr ""
+
+#: inc/post-types/post-types.php:200
+msgid "Search Event"
+msgstr ""
+
+#: inc/post-types/post-types.php:201
+msgid "No Event found"
+msgstr ""
+
+#: inc/post-types/post-types.php:202
+msgid "No Event found in Trash"
+msgstr ""
+
+#: inc/post-types/post-types.php:238 inc/post-types/post-types.php:239
+#: inc/post-types/post-types.php:253
+msgid "Story"
+msgstr ""
+
+#: inc/post-types/post-types.php:240
+msgid "Stories"
+msgstr ""
+
+#: inc/post-types/post-types.php:241
+msgid "Parent Story:"
+msgstr ""
+
+#: inc/post-types/post-types.php:242
+msgid "All Stories"
+msgstr ""
+
+#: inc/post-types/post-types.php:243
+msgid "View Story"
+msgstr ""
+
+#: inc/post-types/post-types.php:244
+msgid "Add New Story"
+msgstr ""
+
+#: inc/post-types/post-types.php:246
+msgid "Edit Story"
+msgstr ""
+
+#: inc/post-types/post-types.php:247
+msgid "Update Story"
+msgstr ""
+
+#: inc/post-types/post-types.php:248
+msgid "Search Story"
+msgstr ""
+
+#: inc/post-types/post-types.php:249
+msgid "No Story found"
+msgstr ""
+
+#: inc/post-types/post-types.php:250
+msgid "No Story found in Trash"
+msgstr ""
+
+#: inc/post-types/post-types.php:286 inc/post-types/post-types.php:287
+#: inc/post-types/post-types.php:301
+msgid "Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:288
+msgid "Members"
+msgstr ""
+
+#: inc/post-types/post-types.php:289
+msgid "Parent Member:"
+msgstr ""
+
+#: inc/post-types/post-types.php:290
+msgid "All Members"
+msgstr ""
+
+#: inc/post-types/post-types.php:291
+msgid "View Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:292
+msgid "Add New Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:294
+msgid "Edit Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:295
+msgid "Update Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:296
+msgid "Search Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:297
+msgid "No Member found"
+msgstr ""
+
+#: inc/post-types/post-types.php:298
+msgid "No Member found in Trash"
+msgstr ""
+
+#: inc/widgets/author-widget.php:13
+msgid "Nominee Author Widget"
+msgstr ""
+
+#: inc/widgets/author-widget.php:14
+msgid "Displays author/user info"
+msgstr ""
+
+#: inc/widgets/author-widget.php:29 inc/widgets/comments-widget.php:27
+#: inc/widgets/flickr-widget.php:29 inc/widgets/latest-posts.php:30
+#: inc/widgets/popular-post/widget.php:30
+msgid "Title: "
+msgstr ""
+
+#: inc/widgets/author-widget.php:34
+msgid "Select Author"
+msgstr ""
+
+#: inc/widgets/author-widget.php:53
+msgid "Show author description ? "
+msgstr ""
+
+#: inc/widgets/author-widget.php:61
+msgid "Show author social ? "
+msgstr ""
+
+#: inc/widgets/comments-widget.php:13
+msgid "Nominee Recent Comments"
+msgstr ""
+
+#: inc/widgets/comments-widget.php:14
+msgid "Your site's most recent comments with user avatar."
+msgstr ""
+
+#: inc/widgets/comments-widget.php:32
+msgid "Number of comments to show: "
+msgstr ""
+
+#: inc/widgets/flickr-widget.php:14
+msgid "Nominee Flickr Photo Widget"
+msgstr ""
+
+#: inc/widgets/flickr-widget.php:15
+msgid "Displays flickr photo"
+msgstr ""
+
+#: inc/widgets/flickr-widget.php:34
+msgid "Flickr ID: "
+msgstr ""
+
+#: inc/widgets/flickr-widget.php:41
+msgid "Photo Limit: "
+msgstr ""
+
+#: inc/widgets/latest-posts.php:13
+msgid "Nominee Latest Posts"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:14
+msgid "Displays latest post"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:35
+msgid "Title Limit (in word): "
+msgstr ""
+
+#: inc/widgets/latest-posts.php:40 inc/widgets/popular-post/widget.php:35
+msgid "Number of posts to show: "
+msgstr ""
+
+#: inc/widgets/latest-posts.php:45 inc/widgets/popular-post/widget.php:40
+msgid "Show meta ? "
+msgstr ""
+
+#: inc/widgets/latest-posts.php:53 inc/widgets/popular-post/widget.php:48
+msgid "Show Post thumbnail ? "
+msgstr ""
+
+#: inc/widgets/latest-posts.php:137 inc/widgets/popular-post/widget.php:154
+#: inc/widgets/popular-post/widget.php:216
+msgid "Post Not Found!"
+msgstr ""
+
+#: inc/widgets/popular-post/widget.php:13
+msgid "Nominee Popular Posts"
+msgstr ""
+
+#: inc/widgets/popular-post/widget.php:14
+msgid "Your site's most popular and recent posts."
+msgstr ""
+
+#: inc/widgets/popular-post/widget.php:56
+msgid "Show Post view ? "
+msgstr ""
+
+#: inc/widgets/popular-post/widget.php:92
+msgid "Latest"
+msgstr ""
+
+#: inc/widgets/popular-post/widget.php:95
+msgid "Popular"
+msgstr ""
